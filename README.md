@@ -1,4 +1,4 @@
-# cyclistic_case_study
+# Cyclistic Bike-Share Case Study
 
 This case study is my capstone project for the Google Data Analytics Professional Certificate course. 
 
