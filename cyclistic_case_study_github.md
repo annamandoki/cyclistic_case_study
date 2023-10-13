@@ -946,7 +946,7 @@ on the above topics and to create more visualizations.
 
 The dashboard can be found here: [Cyclistic Case Study - Capstone
 Project -
-Tableau](https://public.tableau.com/app/profile/anna8476/viz/CyclisticCaseStudy-CapstoneProject/DashboardNavigation)
+Tableau](https://public.tableau.com/app/profile/anna.mandoki/viz/CyclisticCaseStudy-CapstoneProject/DashboardNavigation)
 
 ### Analysis summary - Key takeaways
 
