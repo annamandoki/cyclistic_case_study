@@ -24,6 +24,6 @@ I performed analysis on historical bicycle trip data provided by the company, fo
 * RStudio Desktop: data cleaning and exploratory data analysis
 * Tableau Public: data visualizations
 
-[Tableau Dashboard](https://public.tableau.com/app/profile/anna8476/viz/CyclisticCaseStudy-CapstoneProject/DashboardNavigation)
+[Tableau Dashboard](https://public.tableau.com/app/profile/anna.mandoki/viz/CyclisticCaseStudy-CapstoneProject/DashboardNavigation)
 
 **Anna Mándoki - October 2022**
